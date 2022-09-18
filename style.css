@@ -1,0 +1,69 @@
+* {
+    background-color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.odin-recipe {
+    color: white;
+    background-color: palevioletred;
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+.lasagna,
+.rice {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.lasagna{
+    color: tomato;
+}
+
+.rice {
+    color: chocolate;
+}
+
+.cat {
+    display: block;
+    height: auto;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title-lasagna,
+ {
+    font-size: bolder;
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.lasagna-pic,
+.rice-pic {
+    display: block;
+    width: 50%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ing1,
+.ing2,
+.ing3 {
+    text-align: left;
+}
+
+.main,
+.steps {
+    font-size: medium;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+}
