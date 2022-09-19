@@ -36,12 +36,12 @@ ul {
     margin-right: auto;
 }
 
-.title-lasagna,
- {
+.title-lasagna {
     font-size: bolder;
     text-align: center;
     font-family: sans-serif;
     font-weight: 700;
+    display: block;
 }
 
 .lasagna-pic,
