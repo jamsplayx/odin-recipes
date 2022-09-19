@@ -46,7 +46,7 @@ ul {
 
 .lasagna-pic,
 .rice-pic {
-    display: inline-block;
+    display: block;
     width: 50%;
     height: auto;
     margin-left: auto;
